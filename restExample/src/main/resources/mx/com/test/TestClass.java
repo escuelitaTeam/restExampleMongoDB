@@ -1,6 +1,6 @@
 package mx.com.test;
 
-public class TestClass {
+public class TestClass  {
 
 }
 
